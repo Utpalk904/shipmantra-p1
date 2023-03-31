@@ -4,6 +4,12 @@ A restApi for creating, reading and updating orders
 
 ## Instructions
 
+Move to the backend directory
+
+```bash
+cd backend
+```
+
 Install all required dependencies
 
 ```bash
@@ -23,7 +29,6 @@ DB_URI = "mongodb://localhost:27017/Orders"
 run the following command
 
 ```bash
-cd backend
 npm run dev
 ```
 
